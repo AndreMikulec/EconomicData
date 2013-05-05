@@ -5,6 +5,7 @@ Various hard to query economic data sets
 
 ---
 
+
 PEPSYASEXN
 
 Annual Estimates of the Resident Population by Single Year 
@@ -22,5 +23,7 @@ Files
 PEP_2011_PEPSYASEXN.raw.txt
 
 PEP_2011_PEPSYASEXN.age_contains_population.txt
+
+Meant to be read witht he R command read.csv
 
 ---
