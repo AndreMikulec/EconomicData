@@ -32,11 +32,15 @@ PEP_2011_PEPSYASEXN.age_contains_population.txt
 MAXCAPGNSTAX
 
 US Capital Gains Tax Rates 
+
 Historical Data from 1916 
+
 http://forbestadvice.com/Money/Taxes/Federal-Tax-Rates/Historical_Federal_Capital_Gains_Tax_Rates_History.html
 
 ( SAME )
+
 TOP FEDERAL INCOME TAX RATES SINCE 1913 (top brackets in nominal dollars)
+
 http://www.ctj.org/pdf/regcg.pdf
 
 Files
