@@ -48,3 +48,38 @@ Files
 MAXCAPGNSTAX.max_cap_gains_tax_by_tax_year.txt
 
 ---
+
+USFEDQEPURCHASES
+
+Quantitative easing
+
+http://en.wikipedia.org/wiki/Quantitative_easing#Amounts
+
+
+History of Federal Open Market Committee actions
+
+http://en.wikipedia.org/wiki/History_of_Federal_Open_Market_Committee_actions#Quantitative_Easing_1_.28QE1.2C_December_2008_to_March_2010.29
+
+
+To QE3 or not to QE3 That is the Question
+
+http://advisorperspectives.com/newsletters12/pdfs/Multi-Asset_Growth_Fund-webcast.pdf
+
+
+Legend: Quantitive Easing Type
+
+P - Purchase Long Term Securities
+
+R - Purchase Real Estate Mortgages
+
+T - Twist: Purchage Long Term Securites and Exchange for Short Ones
+
+File
+
+USFEDQEPURCHASES.us_fed_qe_purchaches.txt
+
+
+
+
+
+---
