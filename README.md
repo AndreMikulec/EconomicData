@@ -78,20 +78,6 @@ T - Twist: Purchage Long Term Securites and Exchange for Short Ones
 
 ---
 
-What to Do Now as the End of QE Nears
-
-    By Diane Alter, Contributing Writer, Money Morning  
-    May 24, 2013
-
-
-The uncertainty of when the Fed would begin to wind down 
-  What to Do Now as the End of QE Nears ( may 24, 2013 )
-    its $85 billion-a-month in asset purchases sent investors to the sidelines in a hurry.
-  http://moneymorning.com/2013/05/24/what-to-do-now-as-the-end-of-qe-nears/ 
-http://moneymorning.com/tag/quantitative-easing-3/
-
--
-
 
 
 File
