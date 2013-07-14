@@ -74,11 +74,6 @@ R - Purchase Real Estate Mortgages
 
 T - Twist: Purchage Long Term Securites and Exchange for Short Ones
 
--
-
----
-
-
 
 File
 
