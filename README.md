@@ -110,3 +110,11 @@ FILE
 SandP500_130725.newline.txt
 
 ---
+
+DOM tree for http://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+
+FILE
+
+130725.domqueryinfo.txt
+
+---
