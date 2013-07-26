@@ -80,7 +80,12 @@ File
 USFEDQEPURCHASES.us_fed_qe_purchaches.txt
 
 
-
-
-
 ---
+
+FROM
+http://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+( IE8 copy and paste )
+
+
+
+
