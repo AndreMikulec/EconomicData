@@ -1,0 +1,33 @@
+http://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+
+
+TICKER,COMPANY,SECLINK,GICSSECTOR,GICSSUBINDUSTRY,HEADQUARTERSLOC,DATEFIRSTADDED
+--
+Note: DATEFIRSTADDED can be completely missing
+
+        <td>
+           2013-01-02
+
+<div class="mw-content-ltr" id="mw-content-text" lang="en" dir="ltr">
+  <table class="wikitable sortable jquery-tablesorter">
+    <tbody>
+      <tr>
+        <td>
+          <a class="external text" href="http://www.nyse.com/about/listed/lcddata.html?ticker=mmm" rel="nofollow">
+             MMM
+        <td>
+          <a title="3M Co." class="mw-redirect" href="/wiki/3M_Co.">
+             3M Co.
+        <td>
+           <a class="external text" href="http://www.sec.gov/cgi-bin/browse-edgar?CIK=MMM&action=getcompany" rel="nofollow">
+             reports
+        <td>
+           Industrials
+        <td>
+           Industrial Conglomerates
+        <td>
+           <a title="St Paul, Minnesota" class="mw-redirect" href="/wiki/St_Paul,_Minnesota">
+             St Paul, Minnesota
+        <td>
+           2013-01-02
+      <tr>
