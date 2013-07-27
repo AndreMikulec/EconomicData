@@ -118,3 +118,18 @@ FILE
 130725.domqueryinfo.txt
 
 ---
+
+S and P 500 ticker array in Javascript
+
+Follow instructions here below ( use Notepad++ )
+and READ THE (MY) COMMENT(S).
+
+( convert a verticle word list to a Javascript array )
+Add quotation at the start and end of each line in Notepad++
+http://stackoverflow.com/questions/8849357/add-quotation-at-the-start-and-end-of-each-line-in-notepad
+
+FILE
+
+SandP500_130725.tickerJSArray.txt
+
+---
