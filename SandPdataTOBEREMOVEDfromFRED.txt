@@ -1,5 +1,4 @@
 
-
 S&P Data Series to Be Removed
 Posted on March 25, 2014
 
@@ -10,6 +9,8 @@ This includes the following series:
     4 series of Dow Jones Averages
     179 series of S&P/Case-Shiller Home Price Indices
     The S&P 500 Stock Price Index
+      http://research.stlouisfed.org/fred2/series/SP500/downloaddata/SP500.txt
+    
 
 http://news.research.stlouisfed.org/2014/03/sp-data-series-to-be-removed/
 
