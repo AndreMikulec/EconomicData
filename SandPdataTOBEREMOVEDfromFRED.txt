@@ -1,0 +1,16 @@
+
+
+S&P Data Series to Be Removed
+Posted on March 25, 2014
+
+On April 25th, all series from S&P Dow Jones Indices LLC will be removed from FRED, ALFRED, and GeoFRED. These series will also no longer be available through the Excel Add-in, mobile apps, and API or any other FRED services we provide. Links to these series or graphs that contain these series may be broken or return unexpected results.
+
+This includes the following series:
+
+    4 series of Dow Jones Averages
+    179 series of S&P/Case-Shiller Home Price Indices
+    The S&P 500 Stock Price Index
+
+http://news.research.stlouisfed.org/2014/03/sp-data-series-to-be-removed/
+
+
