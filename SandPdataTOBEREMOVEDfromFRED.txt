@@ -1,4 +1,3 @@
-
 S&P Data Series to Be Removed
 Posted on March 25, 2014
 
@@ -7,7 +6,11 @@ On April 25th, all series from S&P Dow Jones Indices LLC will be removed from FR
 This includes the following series:
 
     4 series of Dow Jones Averages
+      http://research.stlouisfed.org/fred2/series/DJIA/downloaddata/DJIA.txt
+      
+    
     179 series of S&P/Case-Shiller Home Price Indices
+    
     The S&P 500 Stock Price Index
       http://research.stlouisfed.org/fred2/series/SP500/downloaddata/SP500.txt
     
