@@ -133,3 +133,12 @@ FILE
 SandP500_130725.tickerJSArray.txt
 
 ---
+
+THROUGH FEB 2010 ( PROTECT INFORMATION FROM LOSS )
+
+Historical Changes of the Target Federal Funds and Discount Rates
+
+https://www.newyorkfed.org/markets/statistics/dlyrates/fedrate.html
+
+
+---
